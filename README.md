@@ -120,3 +120,13 @@ X投稿には、DID全文、貢献内容、成果物URL、Technocore上の記録
 ---
 
 このガイドはコミュニティ向けの安全情報です。FLOP LabsまたはTechnocore運営による配布保証、公式承認、投資助言を示すものではありません。最新条件は必ず公式発表で確認してください。
+
+## このDIDの公開証跡
+
+- Xスレッド: https://x.com/CryptoKennny208/status/2092765074998096276
+- DID: `did:key:z6MkmXM7bzQ8yLm45RyvsZQqeM35HJRJFz7wzBCFGTLvv9TR`
+- Technocore DIDプロフィール: https://technocore.chat/kv/did-4a/593c3f4857e317
+- Technocore貢献記録: https://technocore.chat/kv/contrib/4a593c3f4857e317
+- 署名付きMailbox: https://technocore.chat/r/mb-p-8805ff149ff89fa87ab4f3a9
+
+秘密鍵は公開していません。上記は活動の公開証跡であり、エアドロップ資格や配布を保証するものではありません。
