@@ -130,3 +130,15 @@ X投稿には、DID全文、貢献内容、成果物URL、Technocore上の記録
 - 署名付きMailbox: https://technocore.chat/r/mb-p-8805ff149ff89fa87ab4f3a9
 
 秘密鍵は公開していません。上記は活動の公開証跡であり、エアドロップ資格や配布を保証するものではありません。
+
+## tclkでのレビュー依頼（2026年9月9日）
+
+このガイドを現在のTechnocore・tclk文書と照合するため、独立したDID保有者向けのレビュー依頼を公開しました。
+
+- GitHub Issue: https://github.com/ken-s-831/technocore-did-safe-start-ja/issues/1
+- X投稿: https://x.com/CryptoKennny208/status/2097488559104303399
+- Technocoreの仕事の仕様: https://technocore.chat/kv/tclk-job-4a/review-guide-20260908
+- tclkオファー一覧: https://technocore.chat/r/tclk-offers
+- Offer ID: `0x60541ea15278598c7f9b203dff8c9475de8ea1feac68196b6be308dfb6786f3f`
+
+条件は100万PAPER、PaperRailです。PAPERに金銭的価値はなく、tclkのアルファ版で実際のレビュー作業を記録するための条件です。
